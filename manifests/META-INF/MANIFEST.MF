@@ -1,0 +1,4 @@
+Manifest-Version: 1.0
+RunBoth-Class: PhoneBookClient
+Main-Class: PhoneBookClient
+
